@@ -56,7 +56,7 @@ Evaluación FINAL de los proyectos: https://forms.gle/micjMoPCKtSJ8jQT9
   * Storytelling: Sumérgete en el mundo de Manolo y el aprendizaje que le da a su sobrino Enzo: [arcweave](https://arcweave.com/app/project/nwEpK7Pl4a?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.337500&coords=-16586.51270027648,-16770.030878427864)
   * Conoce la historia de Manolo y Enzo en Renpy: https://manolocrea.itch.io/manolo
 
-
+https://www.canva.com/design/DAGoASF2TZM/kMv3kUE4_BJp6XMfgdSquw/edit
  
 - (R4) **Magullón**
    * Github: https://github.com/adelaidanavas/MAGULLON
